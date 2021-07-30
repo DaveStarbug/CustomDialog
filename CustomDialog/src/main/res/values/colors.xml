@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="errorColor">#D74C3E</color>
+    <color name="successColor">#FFFFFF</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="darkRedColor">#A52A2A</color>
+    <color name="violateColor">#783480</color>
+    <color name="blackColor">#000000</color>
+
+</resources>
