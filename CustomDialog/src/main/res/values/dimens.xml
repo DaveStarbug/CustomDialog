@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dialogHeight">350dp</dimen>
+    <dimen name="dialogWidth">280dp</dimen>
+    <dimen name="errorTitleSize">24sp</dimen>
+    <dimen name="successTitleSize">24sp</dimen>
+    <dimen name="errorBodySize">18sp</dimen>
+    <dimen name="successBodySize">18sp</dimen>
+    <dimen name="dialogButtonOkWidth">160dp</dimen>
+    <dimen name="dialogButtonOkHeight">45dp</dimen>
+    <dimen name="dialogButtonYesWidth">120dp</dimen>
+    <dimen name="dialogButtonYesHeight">45dp</dimen>
+    <dimen name="dialogButtonNoWidth">120dp</dimen>
+    <dimen name="dialogButtonNoHeight">45dp</dimen>
+
+</resources>

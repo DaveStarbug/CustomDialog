@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="successTitle">Success!</string>
+    <string name="errorTitle">Oops!</string>
+    <string name="errorButtonNoText">No</string>
+    <string name="errorButtonText">OK</string>
+    <string name="successButtonText">Continue</string>
+    <string name="errorButtonYesText">Yes</string>
+
+</resources>
