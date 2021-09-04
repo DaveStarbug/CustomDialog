@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
+
+                //test
 //                CustomDialog.success(MainActivity.this, "", "this is test message", new OkButtonClickListener() {
 //                    @Override
 //                    public void onOKClick(DialogInterface dialog) {
